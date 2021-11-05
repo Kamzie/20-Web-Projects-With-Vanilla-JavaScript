@@ -1,0 +1,77 @@
+[33mcommit edd92a314556bb5b25f2f5d784c81e6be913adf2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Fri Nov 5 12:27:05 2021 +0000
+
+    script.js complete
+
+[33mcommit 2ab80fb8c438f656dc0bd2a015753d2aeb015dd6[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Wed Nov 3 12:23:35 2021 +0000
+
+    First commit
+
+[33mcommit da8c8d72053dc70dabee8d116313d13efd639780[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Wed Nov 3 09:34:05 2021 +0000
+
+    script.js added, ERC complete
+
+[33mcommit d2ea15e81bb42940172112ea7642fee0b1459f84[m
+Merge: 195d85a 43bdc20
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Tue Nov 2 15:36:47 2021 +0000
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
+
+[33mcommit 195d85a07f3442fae0c791ce2fce2c12766781a3[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Tue Nov 2 14:57:15 2021 +0000
+
+    index.html complete
+
+[33mcommit 43bdc205de663e563fb08305e6e340f9612d967a[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Tue Nov 2 14:57:15 2021 +0000
+
+    index.html complete
+
+[33mcommit 2347b8ddac3da53b3fa18d3a13fdd7b71acb2aa7[m
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Tue Nov 2 14:45:08 2021 +0000
+
+    Exchange Rate Calculator
+
+[33mcommit aa828ac824b166d26ca860732468ee5c802d23e9[m
+Merge: 5bca56d 8e873d7
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Mon Nov 1 17:21:23 2021 +0000
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
+
+[33mcommit 5bca56d353fd6d3c5285a5f88a89d28feaee5d35[m
+Merge: 0f6667d 95f3457
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Mon Nov 1 13:47:54 2021 +0000
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
+
+[33mcommit 8e873d742cf648c6846afc4e44157895ef64daf9[m
+Merge: 0f6667d 95f3457
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Mon Nov 1 13:47:54 2021 +0000
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
+
+[33mcommit 0f6667d500e7ae37b6fac787045503f8b871ad79[m
+Merge: d9bef9e 8b5db4f
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Fri Oct 29 13:49:06 2021 +0100
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
+
+[33mcommit 95f3457914ece52750097ad24f4b1d190aedd637[m
+Merge: d9bef9e 8b5db4f
+Author: Kamran Ramzan <mrkamz@gmail.com>
+Date:   Fri Oct 29 13:49:06 2021 +0100
+
+    Merge branch 'main' of https://github.com/Kamzie/20-Web-Projects-With-Vanilla-JavaScript
