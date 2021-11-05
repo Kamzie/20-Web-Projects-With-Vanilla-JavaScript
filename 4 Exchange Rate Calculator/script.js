@@ -19,7 +19,7 @@ function calculate() {
       // console.log(data);
       const rate = data.conversion_rates[currency_two];
       // console.log(rate);
-      rateEl.innerHTML = `1 ${currency_one} = <b>${rate} ${currency_two}</b>`;
+      rateEl.innerHTML = `1 ${currency_one} = <strong>${rate} ${currency_two}</strong>`;
 
       amountEl_two.value = (amountEl_one.value * rate).toFixed(2);
     });
