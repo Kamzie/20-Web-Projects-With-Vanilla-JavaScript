@@ -55,6 +55,7 @@ h4 {
 .inc-exp-container > div:first-of-type {
   border-right: 1px solid #dedede;
 }
+
 .money {
   font-size: 20px;
   letter-spacing: 1px;
@@ -122,6 +123,7 @@ input[type='number'] {
 .list li.plus {
   border-right: 5px solid #2ecc71;
 }
+
 .list li.minus {
   border-right: 5px solid #c0392b;
 }
